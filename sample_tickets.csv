@@ -1,0 +1,7 @@
+TicketID,Subject,Description,Category,Priority,Status,CreatedDate,ResolvedDate
+1001,Login Error,User cannot login to account,Login,High,Open,2025-07-01,
+1002,Billing Issue,Duplicate charges found,Billing,Medium,Resolved,2025-07-02,2025-07-04
+1003,UI Bug,Buttons overlap on mobile,UI,Low,Open,2025-07-03,
+1004,Slow Response,App is slow to load dashboard,Performance,High,Open,2025-07-05,
+1005,Refund Request,Customer asked for refund,Billing,High,Resolved,2025-07-01,2025-07-06
+1006,Account Suspension,User got locked out of account,Login,Medium,Open,2025-07-07,
