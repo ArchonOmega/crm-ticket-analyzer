@@ -6,7 +6,7 @@
 
 
 
-\*\*🔗 Live App:\*\* \[https://yourusername.streamlit.app](https://yourusername.streamlit.app)  
+\*\*🔗 Live App:\*\* \[https://crm-ticket-analyzer-57fykoszmu5vkxrjfmbfsd.streamlit.app/](https://crm-ticket-analyzer-57fykoszmu5vkxrjfmbfsd.streamlit.app/)  
 
 \*\*🔗 GitHub Repo:\*\* \[https://github.com/ArchonOmega/crm-ticket-analyzer](https://github.com/ArchonOmega/crm-ticket-analyzer)
 
